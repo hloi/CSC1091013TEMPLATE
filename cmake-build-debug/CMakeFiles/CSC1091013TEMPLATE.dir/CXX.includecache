@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Cat.cpp
+Cat.h
+C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Cat.h
+iostream
+-
+string
+-
+
+C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Cat.h
+string
+-
+Pet.h
+C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Pet.h
+
+C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Pet.h
+string
+-
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSC1091013TEMPLATE"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSC1091013TEMPLATE">
+				<Option output="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/CSC1091013TEMPLATE.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSC1091013TEMPLATE"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSC1091013TEMPLATE/fast">
+				<Option output="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/CSC1091013TEMPLATE.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSC1091013TEMPLATE/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Cat.cpp">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Cat.h">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Dog.cpp">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Dog.h">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Pet.cpp">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/Pet.h">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/PetTemplate.cpp">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/PetTemplate.h">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/main.cpp">
+			<Option target="CSC1091013TEMPLATE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC1091013TEMPLATE/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
